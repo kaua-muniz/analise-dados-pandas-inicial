@@ -1,16 +1,37 @@
 # 📊 Análise de Dados com Pandas
 
-Projeto desenvolvido durante meus estudos em análise de dados.
+Este projeto foi desenvolvido como parte dos meus estudos em análise de dados, utilizando Python e a biblioteca Pandas.
 
-## 🚀 Tecnologias
-- Python
-- Pandas
-- Jupyter Notebook
+O objetivo principal foi aplicar na prática conceitos fundamentais de manipulação, limpeza e exploração de dados.
 
-## 📚 Aprendizados
-- Manipulação de dados
-- Limpeza de dados
-- Análise exploratória
+---
+
+## 🚀 Objetivo do Projeto
+
+Realizar uma análise exploratória em um conjunto de dados, utilizando técnicas básicas de tratamento e manipulação de dados para extrair informações relevantes.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Python  
+- Pandas  
+- Jupyter Notebook  
+
+---
+
+## 📚 Conceitos Aplicados
+
+Durante o desenvolvimento deste projeto, foram utilizados os seguintes conceitos:
+
+- Leitura de arquivos (CSV/Excel)  
+- Exploração inicial dos dados  
+- Limpeza de dados (valores nulos, inconsistências)  
+- Filtragem de informações  
+- Manipulação de colunas e linhas  
+- Análise exploratória de dados (EDA)  
+
+---
 
 ## 📌 Autor
 Kauã Muniz
